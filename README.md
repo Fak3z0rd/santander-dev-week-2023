@@ -9,7 +9,7 @@ classDiagram
   class Artist {
     - name: String
     - albums: List<Album>
-    - tracks: List<Track>
+    - singles: List<Track>
   }
 
   class Album {
